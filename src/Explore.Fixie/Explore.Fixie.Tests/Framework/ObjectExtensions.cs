@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace System
 {
-    public static class AssertionHelper
+    public static class ObjectExtensions
     {
         public static void CheckAllPropertiesAreNotNull<T>(this T objectToInspect, params Func<T, object>[] getters)
         {
