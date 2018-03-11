@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using FluentAssertions;
 using NSubstitute;
 
-namespace Explore.Fixie.Tests.Tests
+namespace Explore.Fixie.Tests.Scenarios
 {
     public class given_100_posts_exist_when_getting_all_posts
     {

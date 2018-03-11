@@ -1,7 +1,7 @@
 ﻿using Explore.Fixie.Tests.Framework;
 using FluentAssertions;
 
-namespace Explore.Fixie.Tests.Tests
+namespace Explore.Fixie.Tests.Scenarios
 {
     public class CalculatorScenarios
     { 
