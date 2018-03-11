@@ -3,7 +3,7 @@ using FluentAssertions;
 
 namespace Explore.Fixie.Tests.Scenarios
 {
-    public class StringScenarios
+    public class SkippedMethodScenarios
     {
         [Skip("Draft mode for method")]
         public void given_string_when_checking_if_starts_with_string_then_should_return_true()

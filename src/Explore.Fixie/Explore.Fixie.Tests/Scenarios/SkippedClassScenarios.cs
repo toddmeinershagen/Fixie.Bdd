@@ -3,7 +3,7 @@
 namespace Explore.Fixie.Tests.Scenarios
 {
     [Skip("Draft mode for class.")]
-    public class SkippedScenarios
+    public class SkippedClassScenarios
     {
         public void given_test()
         {
